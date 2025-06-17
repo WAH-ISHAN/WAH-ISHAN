@@ -1,18 +1,106 @@
-# 💫 About Me:
-👨‍💻 I'm currently working on:<br>AI-based projects and learning core concepts of computer science to become an AI engineer.<br>Expanding my knowledge in enterprise application development and MVC architecture.<br>🤝 I'm looking to collaborate on:<br>AI and machine learning projects that solve real-world problems.<br>Open-source contributions related to finance or user experience.<br>🧠 I'm looking for help with:<br>Improving my knowledge of advanced AI techniques and frameworks.<br>Preparing for job interviews and career growth in the tech field.<br>🌱 I'm currently learning:<br>Advanced Python programming, data structures, and algorithms.<br>MySQL, JDBC API, and database management systems.<br>💬 Ask me about:<br>How I transitioned from finance to pursuing a career in AI.<br>My approach to designing user stories in software development.<br>⚡ Fun fact:<br>I enjoy turning complex problems into simple solutions, whether in programming or in real life!<br><br>
+<h1 align="center">Hi 👋, I'm Wah-Ishan</h1>
+<h3 align="center">🚀 Aspiring AI Engineer | Full-Stack Developer | Tech Explorer</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ishan048896) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasinduishan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shaan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/WAHISHAN) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hasindu) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WAH-ISHAN&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=WAH-ISHAN&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WAH-ISHAN&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;AI+Engineer+in+the+making...;Let's+build+something+amazing!+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=WAH-ISHAN&icon=1&color=0)](https://visitcount.itsvg.in)
 
+## 🔍 About Me
 
+- 🧠 Currently focused on **AI/ML**, **Enterprise App Development**, and **Computer Science Fundamentals**
+- 👨‍💻 Exploring cutting-edge tools like `TensorFlow`, `FastAPI`, `React`, `Spring Boot`
+- 🔄 Learning **Advanced Python**, **Data Structures & Algorithms**, **JDBC**, and **SQL**
+- 🛠️ Building real-world solutions using AI, automation, and scalable backends
+
+---
+
+## 💼 What I'm Working On
+
+- 🤖 ML projects that solve real-world problems  
+- 🏥 Building a **Smart Health Appointment System**  
+- 📱 Full-stack apps with **React + Node.js** or **Flutter + FastAPI**  
+- 📈 Data visualization dashboards using **Plotly** and **Matplotlib**
+
+---
+
+## 🤝 Let's Collaborate
+
+- 💡 Got a unique **AI idea** or **open-source project**? Let's team up!
+- 📊 Passionate about improving user experience and solving challenges with tech
+
+---
+
+## 🌱 Currently Learning
+
+- 🐍 Advanced Python & ML Frameworks  
+- 🧠 Deep Learning, Transformers, GANs  
+- 🗃️ SQL Optimization & Database Engineering  
+- 🛠️ CI/CD pipelines, GitHub Actions, and DevOps basics
+
+---
+
+## 🧠 Ask Me About
+
+- 🧭 My journey from **Finance to AI**
+- 💡 How I design & structure large-scale projects
+- 🔄 How I break complex problems into clean solutions
+
+---
+
+## ⚡ Fun Fact
+
+> I debug life the same way I debug code – one breakpoint at a time. 😉  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/WAHISHAN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Hasindu" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://instagram.com/Shaan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/hasinduishan" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://discord.gg/ishan048896" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css)  
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  
+
+**AI & ML Tools**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WAH-ISHAN&theme=tokyonight&show_icons=true&hide_border=false" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WAH-ISHAN&theme=tokyonight&hide_border=false" alt="streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAH-ISHAN&layout=compact&theme=tokyonight&hide_border=false" alt="langs" />
+</p>
+
+---
+
+## 🔥 Visitor Counter
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=WAH-ISHAN&icon=6&color=12" />
+</p>
