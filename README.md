@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color:#4FC3F7;">Wah-Ishan</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#4FC3F7;">ISHAN</span> 👋</h1>
 <h3 align="center">AI Engineer in Progress · Full‑Stack Developer · MLOps Enthusiast</h3>
 
 <p align="center">
