@@ -1,119 +1,79 @@
 <h1 align="center">Hi there, I'm <span style="color:#4FC3F7;">ISHAN</span> 👋</h1>
 <h3 align="center">AI Engineer in Progress · Full‑Stack Developer · MLOps Enthusiast</h3>
 
+<!-- ✨ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=4FC3F7&center=true&vCenter=true&width=750&height=45&lines=🚀+Crafting+AI+Solutions+with+Purpose;🧠+Building+Smart+Apps+from+Scratch;⚙️+MLOps+Driven+by+Automation+%26+CI%2FCD;🎯+Turning+Ideas+into+Impactful+Code;🌐+Always+Learning%2C+Always+Building" alt="Typing Animation" />
 </p>
 
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WAH-ISHAN&style=flat-square&color=4FC3F7" alt="Profile Views" />
-</p>
+<p align="left">Hello World!!</p>
 
 ---
 
-## 🔍 About Me
-
-- 🧠 Focused on **AI/ML**, **Enterprise App Development**, **MLOps**, and **Scalable Systems**
-- 👨‍💻 Using tools like `TensorFlow`, `FastAPI`, `React`, `Spring Boot`, `Three.js`, and `Next.js`
-- 🎮 Exploring 3D UI/UX with **Three.js** and **Blender**
-- 🗃️ Experienced with both SQL (MySQL Workbench) and NoSQL (MongoDB)
-- 🔄 Building real-world solutions combining AI, automation, and reliable ML pipelines
-
----
-
-## 💼 Current Projects
-
-- 🤖 Designing ML pipelines with **MLflow**, **Docker**, and **Kubernetes**
-- 🏥 Building a **Smart Health Appointment System** (Microservices · Spring Boot · React)
-- 🧠 Developing AI-driven dashboards with **Next.js**, **Three.js**, and **Blender**
-- 🚀 Automating deployments with **CI/CD**, **GitHub Actions**, and **Firebase Hosting**
+<!-- 🛠 Tech Stack -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook logo" />
+</div>
 
 ---
 
-## 🌱 Currently Learning
-
-- 🔬 Deep Learning: Transformers, GANs, Vision-Language Models
-- 🧪 End‑to‑end MLOps workflows: data validation → training → serving → monitoring
-- ⚙️ CI/CD best practices with Docker, GitHub Actions, and Kubernetes
-- 💡 Next.js + Blender scenes embedded into React workflows
-- 🎨 Framer Motion for animation-rich UI design
-
----
-
-## 🧠 Ask Me About
-
-- 🔁 My journey from **Finance to AI**
-- ⚙️ Architecting scalable backend systems and microservices
-- 💡 Turning vague ideas into **production-ready AI solutions**
+<!-- 🌐 Social Icons -->
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo" />
+</div>
 
 ---
 
-## ⚡ Fun Fact
-
-> I debug life the same way I debug code—one breakpoint at a time. 😉
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/WAHISHAN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Hasindu" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/Shaan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://facebook.com/hasinduishan" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://discord.gg/ishan048896" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+<!-- 📊 GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WAH-ISHAN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WAH-ISHAN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
-![Workbench](https://img.shields.io/badge/MySQL%20Workbench-%230075B8?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### AI/ML & MLOps
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0055A2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+<!-- 🐍 Snake Contribution Graph -->
+<img src="https://raw.githubusercontent.com/WAH-ISHAN/WAH-ISHAN/output/snake.svg" alt="Snake animation" />
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WAH-ISHAN&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WAH-ISHAN&theme=tokyonight&hide_border=false" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAH-ISHAN&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
+<!-- 🕹 Pacman Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WAH-ISHAN/WAH-ISHAN/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WAH-ISHAN/WAH-ISHAN/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/WAH-ISHAN/WAH-ISHAN/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-## 🔥 Visitor Counter
+<!-- 📰 Medium Posts (auto-fetched) -->
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Latest Medium posts" />
+</div>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=WAH-ISHAN&icon=6&color=12" alt="Visitor Count" />
-</p>
+---
+
+<!-- 👥 Visitor Counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/WAH-ISHAN/count.svg?" />
+</div>
+
+---
+
+<!-- 🎬 Fun GIF -->
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+</div>
