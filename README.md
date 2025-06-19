@@ -65,6 +65,7 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/WAH-ISHAN/WAH-ISHAN/output/snake.svg" alt="Snake animation" />
 
 ## 🛠️ Tech Stack
 
