@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer in Progress · Full‑Stack Developer · MLOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Crafting+AI+Solutions+%F0%9F%A4%96;Building+Intelligent+Apps+%E2%9A%99%EF%B8%8F;Learning+End-to-End+MLOps+%F0%9F%92%BB;Transforming+Ideas+into+Code+%F0%9F%96%A5%EF%B8%8F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=4FC3F7&center=true&vCenter=true&width=750&height=45&lines=🚀+Crafting+AI+Solutions+with+Purpose;🧠+Building+Smart+Apps+from+Scratch;⚙️+MLOps+Driven+by+Automation+%26+CI%2FCD;🎯+Turning+Ideas+into+Impactful+Code;🌐+Always+Learning%2C+Always+Building" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -13,37 +13,38 @@
 
 ## 🔍 About Me
 
-- 🧠 Focused on **AI/ML**, **Enterprise App Development**, **MLOps**, and **Scalable Systems**  
-- 👨‍💻 Using tools like `TensorFlow`, `FastAPI`, `React`, `Spring Boot`, and `Three.js`  
-- 🗃️ Experienced with both SQL (MySQL Workbench) and NoSQL databases  
+- 🧠 Focused on **AI/ML**, **Enterprise App Development**, **MLOps**, and **Scalable Systems**
+- 👨‍💻 Using tools like `TensorFlow`, `FastAPI`, `React`, `Spring Boot`, `Three.js`, and `Next.js`
+- 🎮 Exploring 3D UI/UX with **Three.js** and **Blender**
+- 🗃️ Experienced with both SQL (MySQL Workbench) and NoSQL (MongoDB)
 - 🔄 Building real-world solutions combining AI, automation, and reliable ML pipelines
 
 ---
 
 ## 💼 Current Projects
 
-- 🤖 Designing ML pipelines with **MLflow**, **Docker**, and **Kubernetes**  
-- 🏥 Developing a **Smart Health Appointment System** (Microservices · Spring Boot · React)  
-- 📊 Crafting interactive 3D dashboards using **Three.js**  
-- 📦 Automating containerized deployments via **CI/CD**, **GitHub Actions**, and **Firebase Hosting**
+- 🤖 Designing ML pipelines with **MLflow**, **Docker**, and **Kubernetes**
+- 🏥 Building a **Smart Health Appointment System** (Microservices · Spring Boot · React)
+- 🧠 Developing AI-driven dashboards with **Next.js**, **Three.js**, and **Blender**
+- 🚀 Automating deployments with **CI/CD**, **GitHub Actions**, and **Firebase Hosting**
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🔬 Advanced Deep Learning: Transformers & GANs  
-- 🧪 End‑to‑end MLOps workflows: data validation → training → serving → monitoring  
-- ⚙️ CI/CD best practices with Docker, GitHub Actions, and Kubernetes  
-- 🧩 SQL performance tuning with MySQL Workbench  
-- 🎨 Frontend animations and interactions with Framer Motion + Three.js
+- 🔬 Deep Learning: Transformers, GANs, Vision-Language Models
+- 🧪 End‑to‑end MLOps workflows: data validation → training → serving → monitoring
+- ⚙️ CI/CD best practices with Docker, GitHub Actions, and Kubernetes
+- 💡 Next.js + Blender scenes embedded into React workflows
+- 🎨 Framer Motion for animation-rich UI design
 
 ---
 
 ## 🧠 Ask Me About
 
-- 🔁 My journey from **Finance to AI**  
-- 🔧 Architecting scalable backend systems and microservices  
-- 🚀 Breaking down complex problems into elegant, production‑ready code
+- 🔁 My journey from **Finance to AI**
+- ⚙️ Architecting scalable backend systems and microservices
+- 💡 Turning vague ideas into **production-ready AI solutions**
 
 ---
 
@@ -74,6 +75,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js)
 
 ### Databases
@@ -95,6 +97,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
