@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer in Progress · Full‑Stack Developer · MLOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=4FC3F7&center=true&vCenter=true&width=750&height=45&lines=🚀+Crafting+AI+Solutions+with+Purpose;🧠+Building+Smart+Apps+from+Scratch;⚙️+MLOps+Driven+by+Automation+%26+CI%2FCD;🎯+Turning+Ideas+into+Impactful+Code;🌐+Always+Learning%2C+Always+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=4FC3F7&center=true&vCenter=true&width=750&height=45&lines=🚀+Crafting+AI+Solutions+with+Purpose;🧠+Building+Smart+Apps+from+Scratch;⚙️+MLOps+Driven+by+Automation+%26+CI%2FCD;🎯+Turning+Ideas+into+Impactful+Code;🌐+Always+Learning%2C+Always+Building" alt="Typing Animation" />
 </p>
 
 <p align="center">
