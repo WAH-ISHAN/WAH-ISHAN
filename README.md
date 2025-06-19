@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer in Progress · Full‑Stack Developer · MLOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=4FC3F7&center=true&vCenter=true&width=750&height=45&lines=🚀+Crafting+AI+Solutions+with+Purpose;🧠+Building+Smart+Apps+from+Scratch;⚙️+MLOps+Driven+by+Automation+%26+CI%2FCD;🎯+Turning+Ideas+into+Impactful+Code;🌐+Always+Learning%2C+Always+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Crafting+AI+Solutions+%F0%9F%A4%96;Building+Intelligent+Apps+%E2%9A%99%EF%B8%8F;Learning+End-to-End+MLOps+%F0%9F%92%BB;Transforming+Ideas+into+Code+%F0%9F%96%A5%EF%B8%8F" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## 🔍 About Me
 
 - 🧠 Focused on **AI/ML**, **Enterprise App Development**, **MLOps**, and **Scalable Systems**
-- 👨‍💻 Using tools like TensorFlow, FastAPI, React, Spring Boot, Three.js, and Next.js
+- 👨‍💻 Using tools like `TensorFlow`, `FastAPI`, `React`, `Spring Boot`, `Three.js`, and `Next.js`
 - 🎮 Exploring 3D UI/UX with **Three.js** and **Blender**
 - 🗃️ Experienced with both SQL (MySQL Workbench) and NoSQL (MongoDB)
 - 🔄 Building real-world solutions combining AI, automation, and reliable ML pipelines
@@ -66,19 +66,9 @@
 
 ---
 
-## 🐍 Snake Contributions Animation
-
-<!-- If this doesn't work, you can host snake.svg using GitHub Actions -->
-<p align="center">
-  <img src="https://github.com/WAH-ISHAN/WAH-ISHAN/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -89,13 +79,11 @@
 ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js)
 
 ### Databases
-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
 ![Workbench](https://img.shields.io/badge/MySQL%20Workbench-%230075B8?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### AI/ML & MLOps
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=Keras&logoColor=white)
@@ -104,7 +92,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Tools & Platforms
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)
