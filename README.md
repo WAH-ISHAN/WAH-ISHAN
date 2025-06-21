@@ -11,7 +11,7 @@
 
 ---
 
-## 🔍 About Me
+## 🔍 About Me<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - 🧠 Focused on **AI/ML**, **Enterprise App Development**, **MLOps**, and **Scalable Systems**
 - 👨‍💻 Using tools like `TensorFlow`, `FastAPI`, `React`, `Spring Boot`, `Three.js`, and `Next.js`
