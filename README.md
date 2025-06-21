@@ -117,4 +117,3 @@
   <img src="https://visitcount.itsvg.in/api?id=WAH-ISHAN&icon=6&color=12" alt="Visitor Count" />
 </p>
 
-me readme eka update krala lassna 3d modul add krala denna
