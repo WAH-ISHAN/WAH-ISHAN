@@ -117,11 +117,4 @@
   <img src="https://visitcount.itsvg.in/api?id=WAH-ISHAN&icon=6&color=12" alt="Visitor Count" />
 </p>
 
----
-
-## 🎨 3D Module
-
-- 🌐 Creating interactive 3D models using **Three.js** for web applications.
-- 🖌️ Utilizing **Blender** for 3D modeling and animation.
-- 📦 Integrating 3D assets into applications to enhance user experience.
-
+me readme eka update krala lassna 3d modul add krala denna
