@@ -53,7 +53,6 @@
 > I debug life the same way I debug code—one breakpoint at a time. 😉
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -62,7 +61,9 @@
   <a href="https://instagram.com/Shaan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://facebook.com/hasinduishan" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://discord.gg/ishan048896" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/wahasinduishan" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
+
 
 ---
 
