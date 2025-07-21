@@ -13,7 +13,7 @@
 
 ## 🔍 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-- 🧠 Focused on **AI/ML**, **Enterprise App Development**, and **Scalable Systems**
+- 🧠 Focused on **AI/ML**, **Enterprise App Development**, and **MERN-Stack Development**
 - 👨‍💻 Using tools like `TensorFlow`, `FastAPI`, `React`, `Spring Boot`, `Three.js`, and `Next.js`
 - 🎮 Exploring 3D UI/UX with **Three.js** and **Blender**
 - 🗃️ Experienced with both SQL (MySQL Workbench) and NoSQL (MongoDB)
