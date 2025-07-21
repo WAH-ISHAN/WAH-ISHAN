@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <span style="color:#4FC3F7;">ISHAN</span> 👋</h1>
-<h3 align="center">AI Engineer in Progress · Full‑Stack Developer · MLOps Enthusiast</h3>
+<h3 align="center">AI Engineer in Progress · Full‑Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Crafting+AI+Solutions+%F0%9F%A4%96;Building+Intelligent+Apps+%E2%9A%99%EF%B8%8F;Learning+End-to-End+MLOps+%F0%9F%92%BB;Transforming+Ideas+into+Code+%F0%9F%96%A5%EF%B8%8F" alt="Typing Animation" />
@@ -11,9 +11,9 @@
 
 ---
 
-## 🔍 About Me #<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+## 🔍 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-- 🧠 Focused on **AI/ML**, **Enterprise App Development**, **MLOps**, and **Scalable Systems**
+- 🧠 Focused on **AI/ML**, **Enterprise App Development**, and **Scalable Systems**
 - 👨‍💻 Using tools like `TensorFlow`, `FastAPI`, `React`, `Spring Boot`, `Three.js`, and `Next.js`
 - 🎮 Exploring 3D UI/UX with **Three.js** and **Blender**
 - 🗃️ Experienced with both SQL (MySQL Workbench) and NoSQL (MongoDB)
@@ -33,7 +33,6 @@
 ## 🌱 Currently Learning
 
 - 🔬 Deep Learning: Transformers, GANs, Vision-Language Models
-- 🧪 End‑to‑end MLOps workflows: data validation → training → serving → monitoring
 - ⚙️ CI/CD best practices with Docker, GitHub Actions, and Kubernetes
 - 💡 Next.js + Blender scenes embedded into React workflows
 - 🎨 Framer Motion for animation-rich UI design
@@ -61,7 +60,6 @@
   <a href="https://www.hackerrank.com/profile/wahasinduishan" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -81,12 +79,11 @@
 ![Workbench](https://img.shields.io/badge/MySQL%20Workbench-%230075B8?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### AI/ML & MLOps
+### AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0055A2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Tools & Platforms
@@ -114,4 +111,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=WAH-ISHAN&icon=6&color=12" alt="Visitor Count" />
 </p>
-
