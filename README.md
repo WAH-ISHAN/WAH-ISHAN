@@ -52,6 +52,7 @@
 > I debug life the same way I debug code—one breakpoint at a time. 😉
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -88,7 +89,6 @@
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -111,3 +111,25 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=WAH-ISHAN&icon=6&color=12" alt="Visitor Count" />
 </p>
+
+---
+
+## 💖 Support / Sponsor Me
+
+If you like my work and want to support me to keep building cool AI and software projects, you can sponsor me on GitHub Sponsors or support via Patreon / Ko-fi.
+
+<p align="center">
+  <a href="https://github.com/sponsors/WAH-ISHAN" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://patreon.com/your-patreon-link" target="_blank">
+    <img src="https://img.shields.io/badge/Support-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" />
+  </a>
+  <a href="https://ko-fi.com/your-kofi-link" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20Coffee-Ko--Fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy me a Coffee" />
+  </a>
+</p>
+
+Thank you for your support! 🙏
+
+---
