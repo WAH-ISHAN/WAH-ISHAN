@@ -2,6 +2,12 @@
 <h3 align="center">AI Engineer in Progress · Full‑Stack Developer</h3>
 
 <p align="center">
+  <a href="https://wahishan.vercel.app" target="_blank">
+    🌐 <strong>Visit My Portfolio</strong>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Crafting+AI+Solutions+%F0%9F%A4%96;Building+Intelligent+Apps+%E2%9A%99%EF%B8%8F;Learning+End-to-End+MLOps+%F0%9F%92%BB;Transforming+Ideas+into+Code+%F0%9F%96%A5%EF%B8%8F" alt="Typing Animation" />
 </p>
 
@@ -131,5 +137,3 @@ If you like my work and want to support me to keep building cool AI and software
 </p>
 
 Thank you for your support! 🙏
-
----
