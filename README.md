@@ -27,14 +27,7 @@
 
 ---
 
-## 💼 Current Projects
 
-- 🤖 Designing ML pipelines with **MLflow**, **Docker**, and **Kubernetes**
-- 🏥 Building a **Smart Health Appointment System** (Microservices · Spring Boot · React)
-- 🧠 Developing AI-driven dashboards with **Next.js**, **Three.js**, and **Blender**
-- 🚀 Automating deployments with **CI/CD**, **GitHub Actions**, and **Firebase Hosting**
-
----
 
 ## 🌱 Currently Learning
 
