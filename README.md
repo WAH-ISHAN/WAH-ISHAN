@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer in Progress · Full‑Stack Developer</h3>
 
 <p align="center">
-  <a href="https://wahishan.vercel.app" target="_blank">
+  <a href="https://ishan-omega.vercel.app/" target="_blank">
     🌐 <strong>Visit My Portfolio</strong>
   </a>
 </p>
