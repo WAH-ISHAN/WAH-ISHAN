@@ -1,7 +1,7 @@
 <!-- 🔹 PROFILE README FOR @WAH-ISHAN -->
 
 <!-- 🔹 Waving 3D‑style Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=ISHAN%20🚀&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20in%20Progress%20·%20Full‑Stack%20Developer&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=ISHAN%20&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20in%20Progress%20·%20Full‑Stack%20Developer&descAlignY=60&descAlign=50)
 
 <div align="center">
   <a href="https://ishan-omega.vercel.app/" target="_blank">
@@ -39,21 +39,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="3D Developer" width="420" style="border-radius: 20px;" />
 </div>
-
----
-
-## 🧩 3D Interactive Profile (WebGL)
-
-<!-- ⚠️ මෙතන URL එක update කරන්න: GitHub Pages / Vercel වලට ඔයා හදපු Three.js site එක deploy කරපමණින් -->
-<p align="center">
-  <a href="https://WAH-ISHAN.github.io/3d-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Launch_3D_WebGL_Profile-1A237E?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Profile" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Real 3D scene built with Three.js · Move your mouse · Orbit around your 3D profile</sub>
-</p>
 
 ---
 
@@ -202,3 +187,4 @@ If you like my work and want to support me to keep building cool AI and software
 
 <!-- 🔹 Waving Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=150&section=footer)
+
