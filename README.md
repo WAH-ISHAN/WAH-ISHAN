@@ -1,7 +1,7 @@
 <!-- 🔹 PROFILE README FOR @WAH-ISHAN -->
 
 <!-- 🔹 Waving 3D‑style Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=ISHAN%20🚀&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20in%20Progress%20·%20Full‑Stack%20Developer&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=ISHAN%20&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20in%20Progress%20·%20Full‑Stack%20Developer&descAlignY=60&descAlign=50)
 
 <div align="center">
   <a href="https://ishan-omega.vercel.app/" target="_blank">
