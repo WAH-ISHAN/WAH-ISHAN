@@ -1,5 +1,7 @@
+<!-- 🔹 PROFILE README FOR @WAH-ISHAN -->
+
 <!-- 🔹 Waving 3D‑style Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:4FC3F7&height=250&section=header&text=ISHAN&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:4FC3F7&height=250&section=header&text=ISHAN&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=40)
 
 <h3 align="center">AI Engineer in Progress · Full‑Stack Developer</h3>
 
@@ -32,22 +34,23 @@
 ---
 
 ## 🔍 About Me
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-- 🧠 Focused on **AI/ML**, **Enterprise App Development**, and **MERN-Stack Development**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" align="right" />
+
+- 🧠 Focused on **AI/ML**, **Enterprise App Development**, and **MERN‑Stack Development**
 - 👨‍💻 Using tools like `TensorFlow`, `FastAPI`, `React`, `Spring Boot`, `Three.js`, and `Next.js`
 - 🎮 Exploring 3D UI/UX with **Three.js** and **Blender**
 - 🗃️ Experienced with both SQL (**MySQL Workbench**) and NoSQL (**MongoDB**)
-- 🔄 Building real-world solutions combining **AI**, **automation**, and **reliable ML pipelines**
+- 🔄 Building real‑world solutions combining **AI**, **automation**, and **reliable ML pipelines**
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🔬 Deep Learning: **Transformers**, **GANs**, **Vision-Language Models**
+- 🔬 Deep Learning: **Transformers**, **GANs**, **Vision‑Language Models**
 - ⚙️ CI/CD best practices with **Docker**, **GitHub Actions**, and **Kubernetes**
 - 💡 **Next.js** + **Blender** scenes embedded into React workflows
-- 🎨 **Framer Motion** for animation-rich UI design
+- 🎨 **Framer Motion** for animation‑rich UI design
 
 ---
 
@@ -55,7 +58,7 @@
 
 - 🔁 My journey from **Finance → AI**
 - ⚙️ Architecting **scalable backend systems** and **microservices**
-- 💡 Turning vague ideas into **production-ready AI solutions**
+- 💡 Turning vague ideas into **production‑ready AI solutions**
 
 ---
 
@@ -65,7 +68,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (3D‑ish Overview)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,nodejs,react,nextjs,spring,fastapi,threejs,html,css,git,github,docker,mongodb,mysql,blender&perline=9" />
+</p>
 
 ### 🔹 Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -98,6 +105,14 @@
 
 ---
 
+## 🏆 3D‑Style Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WAH-ISHAN&theme=darkhub&no-frame=false&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📊 GitHub Stats (Neon / 3D‑Feel)
 
 <p align="center">
@@ -114,17 +129,19 @@
 
 ---
 
+## ⚙️ Activity Graph (Animated Flow)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WAH-ISHAN&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=4FC3F7&line=4FC3F7&point=1E88E5" alt="Activity Graph" />
+</p>
+
+---
+
 ## 🔥 Activity & Visitors
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=WAH-ISHAN&icon=6&color=12" alt="Visitor Count" />
 </p>
-
-<!-- (Optional) 3D Contribution Graph – generate via yoshi389111/github-profile-3d-contrib and add your SVG path here
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="700" />
-</p>
--->
 
 ---
 
