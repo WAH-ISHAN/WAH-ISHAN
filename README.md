@@ -1,4 +1,4 @@
-```markdown
+
 <!-- PROFILE README FOR @WAH-ISHAN -->
 
 <!-- Waving 3D‑style Header -->
